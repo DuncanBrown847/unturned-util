@@ -1,0 +1,15 @@
+bind_combat_log :: Key.end
+bind_nightvision :: n
+bind_autotpa_0 :: [
+target_autotpa_0 :: succ
+bind_autotpa_1 :: ]
+target_autotpa_1 :: Fortunate
+bind_autotpa_2 :: =
+target_autotpa_2 :: Penatrator
+bind_inputspam_0 :: f
+target_inputspam_0 :: f
+bind_quicktype_0 :: Key.home
+target_quicktype_0 :: /home
+bind_inputspam_1 :: Button.x2
+target_inputspam_1 :: Button.left
+bind_pause :: Key.enter
